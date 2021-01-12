@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MultiWindowPlugin.cpp.obj": [
+			"IMultiWindowPluginModule.cpp.obj",
+			"MultiWindowPluginCommands.cpp.obj",
+			"MultiWindowPluginStyle.cpp.obj",
+			"MWGameInstanceSubsystem.cpp.obj",
+			"MWSceneCaptureComponent2D.cpp.obj",
+			"MyActor.cpp.obj",
+			"MyGameViewportClient.cpp.obj",
+			"WindowControllerActor.cpp.obj"
+		],
+		"Module.MultiWindowPlugin.gen.cpp.obj": [
+			"MultiWindowPlugin.init.gen.cpp.obj",
+			"MWGameInstanceSubsystem.gen.cpp.obj",
+			"MWSceneCaptureComponent2D.gen.cpp.obj",
+			"MyActor.gen.cpp.obj",
+			"WindowControllerActor.gen.cpp.obj"
+		]
+	}
+}
